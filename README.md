@@ -10,6 +10,7 @@ Collection of LeetCode solutions in Python and Java
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
@@ -53,6 +55,7 @@ Collection of LeetCode solutions in Python and Java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
