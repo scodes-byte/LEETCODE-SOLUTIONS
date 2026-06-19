@@ -8,6 +8,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode solutions in Python and Java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -84,4 +86,8 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
