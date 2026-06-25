@@ -11,7 +11,7 @@ class Solution {
 
             }
         }
-        for(int key:map.keySet()){
+        for(int key:nums){
             if(map.get(key)>n/2){
                 return key;
             }
