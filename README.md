@@ -34,12 +34,14 @@ Collection of LeetCode solutions in Python and Java
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
