@@ -11,11 +11,11 @@ class Solution {
 
             }
         }
-        for(int key:nums){
+        for(int key:map.keySet()){
             if(map.get(key)>n/2){
                 return key;
             }
-        }return -1;
+        }return 1;
 
 
 
