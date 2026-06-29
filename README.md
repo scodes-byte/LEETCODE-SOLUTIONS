@@ -19,6 +19,7 @@ Collection of LeetCode solutions in Python and Java
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode solutions in Python and Java
 | [0001-two-sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -57,6 +59,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@ Collection of LeetCode solutions in Python and Java
 | [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -88,6 +92,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -105,4 +110,16 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
