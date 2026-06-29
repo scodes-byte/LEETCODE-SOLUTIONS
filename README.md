@@ -11,6 +11,7 @@ Collection of LeetCode solutions in Python and Java
 | [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
