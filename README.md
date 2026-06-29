@@ -58,6 +58,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
