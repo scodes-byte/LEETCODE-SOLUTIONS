@@ -60,6 +60,7 @@ Collection of LeetCode solutions in Python and Java
 | [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -133,4 +134,8 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
