@@ -22,6 +22,7 @@ Collection of LeetCode solutions in Python and Java
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -153,4 +154,8 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
