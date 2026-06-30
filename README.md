@@ -13,6 +13,7 @@ Collection of LeetCode solutions in Python and Java
 | [0027-remove-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode solutions in Python and Java
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -143,5 +145,6 @@ Collection of LeetCode solutions in Python and Java
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
