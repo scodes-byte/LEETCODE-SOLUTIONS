@@ -8,6 +8,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode solutions in Python and Java
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode solutions in Python and Java
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
