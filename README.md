@@ -89,6 +89,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
