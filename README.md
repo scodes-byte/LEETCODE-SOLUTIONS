@@ -59,6 +59,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode solutions in Python and Java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode solutions in Python and Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
