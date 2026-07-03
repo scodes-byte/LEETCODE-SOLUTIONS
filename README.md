@@ -23,6 +23,7 @@ Collection of LeetCode solutions in Python and Java
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode solutions in Python and Java
 | [0004-median-of-two-sorted-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ Collection of LeetCode solutions in Python and Java
 | [0075-sort-colors](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -156,6 +159,7 @@ Collection of LeetCode solutions in Python and Java
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -164,6 +168,7 @@ Collection of LeetCode solutions in Python and Java
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
