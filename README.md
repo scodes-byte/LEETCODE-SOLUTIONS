@@ -112,6 +112,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode solutions in Python and Java
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
