@@ -25,6 +25,7 @@ Collection of LeetCode solutions in Python and Java
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode solutions in Python and Java
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -215,4 +217,8 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
