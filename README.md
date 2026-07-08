@@ -101,6 +101,7 @@ Collection of LeetCode solutions in Python and Java
 | [0020-valid-parentheses](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode solutions in Python and Java
 | [0013-roman-to-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -138,6 +140,7 @@ Collection of LeetCode solutions in Python and Java
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -204,4 +207,8 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
