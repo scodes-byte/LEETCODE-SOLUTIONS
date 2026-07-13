@@ -33,6 +33,7 @@ Collection of LeetCode solutions in Python and Java
 | [0485-max-consecutive-ones](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode solutions in Python and Java
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
