@@ -133,6 +133,7 @@ Collection of LeetCode solutions in Python and Java
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
