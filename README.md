@@ -36,6 +36,7 @@ Collection of LeetCode solutions in Python and Java
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Dynamic Programming
