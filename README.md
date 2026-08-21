@@ -137,6 +137,7 @@ Collection of LeetCode solutions in Python and Java
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
