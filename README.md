@@ -35,6 +35,7 @@ Collection of LeetCode solutions in Python and Java
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ Collection of LeetCode solutions in Python and Java
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@ Collection of LeetCode solutions in Python and Java
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -227,4 +230,8 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
