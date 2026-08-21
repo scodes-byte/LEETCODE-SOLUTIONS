@@ -135,6 +135,7 @@ Collection of LeetCode solutions in Python and Java
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
