@@ -115,6 +115,7 @@ Collection of LeetCode solutions in Python and Java
 | [0344-reverse-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode solutions in Python and Java
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
@@ -219,6 +221,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
