@@ -21,6 +21,7 @@ Collection of LeetCode solutions in Python and Java
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode solutions in Python and Java
 | [0053-maximum-subarray](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
@@ -180,6 +182,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
