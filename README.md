@@ -128,6 +128,7 @@ Collection of LeetCode solutions in Python and Java
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Math
