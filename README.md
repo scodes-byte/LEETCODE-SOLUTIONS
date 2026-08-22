@@ -134,6 +134,7 @@ Collection of LeetCode solutions in Python and Java
 | [0070-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0067-add-binary](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
