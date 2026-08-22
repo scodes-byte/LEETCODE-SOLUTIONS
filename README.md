@@ -135,6 +135,7 @@ Collection of LeetCode solutions in Python and Java
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0050-powx-n](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
