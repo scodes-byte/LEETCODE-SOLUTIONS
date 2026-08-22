@@ -35,6 +35,7 @@ Collection of LeetCode solutions in Python and Java
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode solutions in Python and Java
 | [0344-reverse-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode solutions in Python and Java
 | [0242-valid-anagram](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
