@@ -23,6 +23,7 @@ Collection of LeetCode solutions in Python and Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode solutions in Python and Java
 | [0088-merge-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
@@ -96,6 +98,7 @@ Collection of LeetCode solutions in Python and Java
 | [0035-search-insert-position](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
