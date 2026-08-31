@@ -35,6 +35,7 @@ Collection of LeetCode solutions in Python and Java
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode solutions in Python and Java
 | [0347-top-k-frequent-elements](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Binary Search
@@ -230,6 +232,7 @@ Collection of LeetCode solutions in Python and Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
