@@ -37,6 +37,7 @@ Collection of LeetCode solutions in Python and Java
 | [0540-single-element-in-a-sorted-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
