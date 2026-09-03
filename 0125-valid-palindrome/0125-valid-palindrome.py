@@ -1,25 +1,24 @@
-
 class Solution:
-    def  an(self,s):
-        x=ord(s)
-        if 97<=x<=122 or 65<=x<=90 or 48<=x<=57:
-            return True
-        return False
-
     def isPalindrome(self, s: str) -> bool:
-        s=s.lower()
 
-        i=0
-        j=len(s)-1
-        while i<j:
-            if not self.an(s[i]):
-                i+=1
-            elif not self.an(s[j]):
-                j-=1
-            elif s[i]==s[j]:
-                i+=1
-                j-=1
-            else:
+        s = s.lower()
+
+        left = 0
+        right = len(s) - 1
+
+        while left < right:
+
+            if not s[left].isalnum():
+                left += 1
+
+            elif not s[right].isalnum():
+                right -= 1
+
+            elif s[left] != s[right]:
                 return False
+
+            else:
+                left += 1
+                right -= 1
+
         return True
-        
