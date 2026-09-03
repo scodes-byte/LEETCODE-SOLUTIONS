@@ -41,6 +41,7 @@ Collection of LeetCode solutions in Python and Java
 | [0724-find-pivot-index](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode solutions in Python and Java
 | [0387-first-unique-character-in-a-string](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0525-contiguous-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Binary Search
@@ -238,6 +240,7 @@ Collection of LeetCode solutions in Python and Java
 | [0525-contiguous-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
