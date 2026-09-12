@@ -277,5 +277,6 @@ Collection of LeetCode solutions in Python and Java
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/scodes-byte/LEETCODE-SOLUTIONS/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
